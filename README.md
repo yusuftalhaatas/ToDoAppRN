@@ -1,6 +1,10 @@
 # ToDoAppRN
 This ToDo App project developed for learning React Native
-![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 13 11](https://user-images.githubusercontent.com/70464535/219068163-a567501c-0625-4b9e-8c48-9daa09d65c84.png)
-![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 12 48](https://user-images.githubusercontent.com/70464535/219068183-09da69bc-7934-41aa-a4db-83dbe5de9f12.png)
-![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 12 22](https://user-images.githubusercontent.com/70464535/219068195-ada9e11a-71f6-4376-986e-1dad2b6f8533.png)
-![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 11 31](https://user-images.githubusercontent.com/70464535/219068204-cc903b5f-b115-49e3-a5c5-c437f3fd37af.png)
+
+
+
+
+![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 11 31](https://user-images.githubusercontent.com/70464535/219070955-23a5a5af-aac5-4e51-b015-7f90ceab0b46.png)
+![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 12 22](https://user-images.githubusercontent.com/70464535/219070962-233e84ce-7824-4de5-ba18-4a7c65910dab.png)
+![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 12 48](https://user-images.githubusercontent.com/70464535/219070967-acc48d76-fa5f-47e4-9711-2cb3d36a3888.png)
+![Simulator Screen Shot - iPhone 13 - 2023-02-15 at 18 13 11](https://user-images.githubusercontent.com/70464535/219070969-d79fdafc-e8fa-4c68-b4b7-8416086df767.png)
